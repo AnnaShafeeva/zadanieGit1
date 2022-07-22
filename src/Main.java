@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Максимальное количество проданных позиций в течение дня " + day1.max() + " шт");
 
+        System.out.println("Среднее количество проданных позиций в течение дня " + day1.average() + " шт");
+
     }
 }
